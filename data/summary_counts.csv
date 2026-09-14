@@ -1,0 +1,15 @@
+metric,value
+opendata_total_rows,435
+opendata_unique_permitnumbers,435
+opendata_permittype_mechanical,395
+opendata_permittype_electrical,35
+opendata_permittype_building,2
+opendata_permittype_residential_building,2
+opendata_permittype_plumbing,1
+opendata_likely_hpwh_flagged,3
+shovels_total_rows,20
+shovels_unique_permitnumbers,20
+shovels_total_count_api_reported,20
+reconciliation_in_both,20
+reconciliation_opendata_only,415
+reconciliation_shovels_only,0
