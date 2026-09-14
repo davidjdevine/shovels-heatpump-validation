@@ -20,7 +20,7 @@ It's my hometown! Though I now live in Pittsburgh. I also chose Philadelphia bec
 ### Source 1 — City of Philadelphia open data
 
 - Dataset: [OpenDataPhilly](https://opendataphilly.org/datasets/licenses-and-inspections-building-and-zoning-permits/)
-- Scope: all permit types, 2025 issue dates
+- Scope: all permit types, issue dates between 2025/09/12 & 2026/09/12
 - Filter: description keyword search for heat pump work — `(heat[ -]?pump|mini[ -]?split|ductless|(multi|split)[ -]?zone|hyper[ -]?heat|\mVRF\M)`
 - Freshness: table current through 2026-09-13
 - Result: 435 records → `data/summary_counts.csv` (aggregates only; raw city data is linked)
